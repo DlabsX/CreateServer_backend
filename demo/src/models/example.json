@@ -1,0 +1,19 @@
+
+
+[{
+    "id": 1,
+    "name":"Jorge",
+    "surname":"vega",
+    "age": 20,
+    "mail":"jvega@soyhenry",
+    "posts": []
+},
+
+
+
+{
+    "id":1,
+    "title":"un titulo",
+    "constents":"contenido",
+    "userId":1
+}]
